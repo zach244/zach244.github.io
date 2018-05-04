@@ -43,5 +43,5 @@ This is a web-based Math teaching aid that is targeted at children between 1st a
 Learning Goal: To	understand the	concepts and techniques	of software	design
 
 ## Resume
-
+[Resume](https://github.com/zach244/Resume.git)
 
