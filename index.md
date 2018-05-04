@@ -3,3 +3,4 @@
 Contact information:
 
 ## Senior Project
+[Event Finder](https://github.com/zach244/SeniorProjectUpdated)
