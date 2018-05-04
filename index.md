@@ -36,12 +36,14 @@ group	setting
 
 ## Kd-Trees
 [Nearest Neighbor](https://github.com/zach244/Assignment-5)
+
 The goal of this assignment was to write a symbol table data type that provides the ability to map from Point2D objects to arbitrary values. A 2d-tree must be implemented to support efficient range search. 2d-trees have numerous applications, ranging from classifying astronomical objects to computer animation to speeding up neural networks to mining data to image retrieval. This assignment helped me greatly develop my problem-solving skills and gave me the ability to conceptualize more complex algorithms and data structures. This was the last assignment of the course; therefore, it was a great way to use all important algorithms and data structures that were taught over the course of a semester. 
 
 Learning Goal: To	develop	effective	problem-solving	skills.
 
 ## Kids Math Helper
 [MathProj](https://github.com/zach244/MathProj)
+
 This is a web-based Math teaching aid that is targeted at children between 1st and 3rd grade. This web application was written using Thymleaf Templates, Bootstrap, and Spring while using a MySQL database.  This was a very demanding project as it was the first time that I have ever used a web framework and worked with a relatively large group of students.  We had many frustrating issues starting on this project as it took a large amount of time to learn the framework initially. The next challenge was to get the rest of the team up to speed on the project. In the end we completed important parts of our project, while learning many important aspects of software design and web frameworks. 
 
 Learning Goal: To	understand the	concepts and techniques	of software	design
