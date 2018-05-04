@@ -23,12 +23,21 @@ For this assignment two students created a chat room which used a protocol that 
 
 Learning Goal: To	attain	a	system	level	understanding	of	the	computer
 
-## Perculation Simulator
-[Perculation Simulator](https://github.com/zach244/2420)
+## Percolation Simulator
+[Percolation Simulator](https://github.com/zach244/2420)
+
+This assignment was to create a simulation of Percolation. Percolation is the process of a liquid slowly passing through a filter. This assignment was done in my Data Structures and Algorithms class to implement some of the newly learned data structures. This assignment was very beneficial as it was necesary to implement many different data structures in this assignment in order to simulate percolation.
+
+Learing Goal: To	acquire	significant	project	experience	working	both	individually	and	in	a	
+group	setting
 
 ## Nearest Neighbor Implementation
 [Nearest Neighbor](https://github.com/zach244/Assignment-5)
 
+Learning Goal: To	develop	effective	problem	solving	skills.
+
 ## Kids Math Helper
 [MathProj](https://github.com/zach244/MathProj)
+
+Learning Goal: To	understand the	concepts and techniques	of software	design
 
