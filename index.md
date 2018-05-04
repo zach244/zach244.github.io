@@ -1,6 +1,10 @@
 # Portfolio
 Contact information: zacharyyoung244@gmail.com
 
+## Resume
+[Resume](https://github.com/zach244/Resume.git)
+
+
 ## Senior Project
 [Event Finder](https://github.com/zach244/SeniorProjectUpdated)
 
@@ -11,7 +15,7 @@ This project is what I completed for my Senior Capstone. It is an Android applic
 
 This assignment required students to create a multithreaded webserver that took requests through HTTP protocol and respond back with the corresponding content. In order to do this, the student must first parse the request, create the appropriate headers corresponding to the HTTP Protocol and request the content. Once the content is served, the student had to then write the corresponding content back to the socket connection corresponding to the client. This assignment was very successful at giving me experience with JAVA Sockets and HTTP protocol. 
 
-Learning Goal: To	acquire	significant	project	experience working	both individually and	in a	
+Learning Goal: To	acquire	significant	project	experience working both individually and	in a	
 group	setting.
 
 
@@ -20,7 +24,7 @@ group	setting.
 
 For this assignment two students created a chat room which used a protocol that was created by a group of students in class. This assignment required the students to create a multithreaded server based on the protocol proposed, create a client that that connects to this server using sockets and while providing a GUI interface for the user. This protocol included error codes and other interesting features that added the user in chatting with other participants. This was a very useful assignment as it furthered my knowledge of socket programming, while deepening my understanding of protocols.
 
-Learning Goal: To	attain	a	system	level	understanding	of	the	computer
+Learning Goal: To	attain a	system level	understanding	of the	computer
 
 ## Percolation Simulator
 [Percolation Simulator](https://github.com/zach244/2420)
@@ -42,6 +46,4 @@ This is a web-based Math teaching aid that is targeted at children between 1st a
 
 Learning Goal: To	understand the	concepts and techniques	of software	design
 
-## Resume
-[Resume](https://github.com/zach244/Resume.git)
 
