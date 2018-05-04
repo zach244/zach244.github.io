@@ -1,6 +1,6 @@
 
-# Zach Young Portfolio
-Contact information:
+# Portfolio
+Contact information: zacharyyoung244@gmail.com
 
 ## Senior Project
 [Event Finder](https://github.com/zach244/SeniorProjectUpdated)
@@ -33,11 +33,13 @@ group	setting
 
 ## Nearest Neighbor Implementation
 [Nearest Neighbor](https://github.com/zach244/Assignment-5)
+The goal of this assignment was to write a symobl table data type that provides the ability to map from Point2D objects to arbitrary values. A 2d-tree must be implemented to support efficient range search. 2d-trees have numerous applications, ranging from classifying astronomical objects to computer animation to speeding up neural networks to mining data to image retrieval. This assignment helped me greatly develop my problem solving skills and gave me the ability to conceptionalize more comple algorithms and data structures. 
 
 Learning Goal: To	develop	effective	problem	solving	skills.
 
 ## Kids Math Helper
 [MathProj](https://github.com/zach244/MathProj)
+This is a web based Math teaching aid that is targeted at children between 1st and 3rd grade. This web application was written using Thymleaf Templates, Spring and MySQL server.  This was a very demanding project as it was the first time that I have ever used a web framework, and worked with a relativly large group of students.  We had many frustrating issues starting on this project as it took a large amount of time to learn my first framework, and get the rest of the team up to speed on the project. In the end we completed important parts of our project, while learning many important aspects of software design and web framworks. 
 
 Learning Goal: To	understand the	concepts and techniques	of software	design
 
